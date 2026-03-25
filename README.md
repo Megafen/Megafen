@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Dmitry
 
-<!--
-**Megafen/Megafen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Self-taught developer focused on backend and web development  
+🚀 Building web applications and constantly improving my skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+
+- 🐍 Backend developer (Python)
+- 🌐 Frontend with HTML, CSS, Bootstrap
+- 🤖 Use AI to explore new technologies and languages
+- 📚 Always learning and building real projects
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Python
+- Django / Flask / FastAPI
+
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+
+### Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## 📈 Currently learning
+
+- Backend architecture
+- REST APIs
+- Databases (SQLite / PostgreSQL)
+- Clean code and project structure
+
+---
+
+## 🎯 Goals
+
+- Become a professional backend developer  
+- Build production-ready web applications  
+- Improve system design and architecture skills  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Megafen
